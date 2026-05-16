@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e46afe83-507b-48a0-8f7f-33b7d69f9cd2
+
 # Persona Engine
 
 AI system that tracks user mood drift, classifies intent offline, and resolves RAG conflicts.
