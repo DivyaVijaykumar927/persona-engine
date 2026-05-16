@@ -3,7 +3,7 @@
 AI system that tracks user mood drift, classifies intent offline, and resolves RAG conflicts.
 
 ## Live Demo
-[Click here](YOUR_STREAMLIT_LINK_HERE)
+[Click here](https://persona-engine-divyavijaykumar927.streamlit.app/)
 
 ## Parts
 - Part 1: Persona drift detector — tracks tone changes across days
